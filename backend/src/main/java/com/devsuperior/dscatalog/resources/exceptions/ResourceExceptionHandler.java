@@ -1,4 +1,4 @@
-package com.devsuperior.dscatalog.resources.expections;
+package com.devsuperior.dscatalog.resources.exceptions;
 
 import com.devsuperior.dscatalog.services.exceptions.DatabaseException;
 import com.devsuperior.dscatalog.services.exceptions.ResourceNotFoundException;
